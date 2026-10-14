@@ -56,4 +56,4 @@ jobs:
             Write-Host "⛔ Terjadi kesalahan jaringan. Coba lagi nanti."
             exit 1
           }
-          
+
